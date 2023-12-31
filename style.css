@@ -2,7 +2,7 @@
     width: 80%;
     height: 250px;
     background-color: bisque;
-    margin: 0px 140px;
+    margin: 0px 120px;
     /* padding-bottom: 20px; */
     padding-top: 15px;
     border: 2px solid black;
@@ -11,8 +11,9 @@
 #nav1{
     background-color: red;
     width: 190px;
-    max-height: 180px;
+    /* max-height: 180px; */
     margin-left: 50px;
+    margin-right: 20px;
     /* padding: 5px 20px; */
     border: 1px solid;
     display: inline-block;
@@ -21,7 +22,8 @@
     background-color: rgb(6, 154, 6);
     width: 190px;
     /* max-height: 180px; */
-    margin-left: 50px;
+    margin-left: 30px;
+    margin-right: 20px;
     /* padding: 5px 20px; */
     border: 1px solid;
     display: inline-block;
@@ -29,19 +31,18 @@
 #nav3{
     background-color: blue;
     width: 190px;
-    margin-left: 50px;
+    margin-left: 30px;
+    margin-right: 20px;
     border: 1px solid;
     display: inline-block;
 }
 #nav4{
     background-color: violet;
     width: 190px;
-    height: 200px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    /* padding-left: 20px; */
-    /* padding-top: 5px; */
-    /* padding-right: 20px; */
+    /* max-height: 180px; */
+    margin-right: 20px;
+    margin-left: 30px;
+    /* padding: 5px 20px; */
     border: 1px solid;
     display: inline-block;
 }
@@ -62,7 +63,8 @@ p{
 img{
     width: 190px;
     height: 220px;
-    margin-left: 50px;
+    margin-left: 30px;
+    margin-right: 20px;
     /* padding: 5px 20px; */
     /* border: 1px solid; */
     display: inline-block;
